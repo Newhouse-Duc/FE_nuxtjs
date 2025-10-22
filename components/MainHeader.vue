@@ -1,6 +1,8 @@
 <template>
   <div>
-<h1>tạm biejt </h1>
+<button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
+    Test Tailwind
+  </button>
   </div>
 </template>
 
