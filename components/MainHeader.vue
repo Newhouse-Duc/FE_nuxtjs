@@ -1,6 +1,6 @@
 <template>
   <div>
-yoy
+<h1>tạm biejt </h1>
   </div>
 </template>
 
