@@ -1,8 +1,9 @@
 <template>
-  <div>
-    <NuxtLayout/>
-  <NuxtPage/>
-  </div>
+
+   <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
+
 </template>
 <style>
 @import 'tailwindcss';
