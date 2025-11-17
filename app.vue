@@ -7,4 +7,5 @@
 </template>
 <style>
 @import 'tailwindcss';
+@plugin "daisyui";
 </style>
